@@ -29,7 +29,7 @@
     
     [self.tableView scrollToRowAtIndexPath:firstRow
                           atScrollPosition:UITableViewScrollPositionTop
-                                  animated:NO];
+                                  animated:YES];
     
 }
 
