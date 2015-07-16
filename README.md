@@ -1,5 +1,5 @@
 # estimatedRowHeightFail
-
+Example project for Radar [21859811](rdar://21859811) ([openradar](http://openradar.me/21859811))
 
 ### `scrollToRowAtIndexPath:atScrollPosition:animated:` scrolls past the content when using `estimatedRowHeight`, `UITableViewAutomaticDimension` and `animated:YES`
 
